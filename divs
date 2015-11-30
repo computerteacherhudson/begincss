@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {color: black;}
+p.class_red{background-color: red;}
+p.class_orange{background-color: orange;}
+div.class_yellow{background-color: yellow;}
+div.class_green{color:white; background-color: green;}
+div.class_blue{color:white; background-color: blue;}
+div.class_purple{color:white; background-color: purple;}
+div.class_brown{color:white; background-color: brown;}
+div.class_black{color:white; background-color: black;}
+</style>
+</head>
+<body>
+<p>Let's talk about divided sections!</p>
+<p class="class_red">
+Here's a divided section with a red background.
+</p>
+<p class="class_orange">
+Here's a divided section with an orange background.
+</p>
+<div class="class_yellow">
+Here's a divided section with a yellow background.
+</div>
+<div class="class_green">
+Here's a divided section with a green background.
+</div>
+<div class="class_blue">
+Here's a divided section with a blue background.
+</div>
+<div class="class_purple">
+Here's a divided section with a purple background and white font.
+</div>
+<div class="class_brown">
+Here's a divided section with a brown background and white font.
+</div>
+<div class="class_black">
+Here's a divided section with a black background and white font.
+</div>
+</body>
+</html>
